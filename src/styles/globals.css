@@ -1,0 +1,12 @@
+/* ensure all pages have Bootstrap CSS */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+body {
+    height: 100%;
+    background: #121212;
+}
+
+.col {
+    margin-bottom: 20px;
+    min-height: 220px;
+}
